@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1605882034 source:c:\users\user\desktop\project n\2048\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<cstdlib>
+
